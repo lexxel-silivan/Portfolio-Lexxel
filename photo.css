@@ -97,6 +97,12 @@ header h1{
 	background-color: #ffe599;
 }
 
+main img{
+	border: 3px solid cyan;
+	box-shadow: 2px 2px 6px black;
+}
+
+
 h1{
 	background-color: #fff2cc;
 }
